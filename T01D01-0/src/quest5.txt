@@ -1,0 +1,5 @@
+with nano
+
+nano door_1.conf
+
+//then we edit, then ^X, then Y, then ENTER
